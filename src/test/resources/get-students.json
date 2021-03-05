@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Rashmi",
+    "subject": "BE",
+    "university": "VTU"
+
+  },
+  {
+    "name": "Bhuvik",
+    "subject": "MBA",
+    "university": "BU"
+
+  },
+  {
+    "name": "Srini",
+    "subject": "MCA",
+    "university": "SVU"
+
+  }
+]
